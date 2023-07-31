@@ -4,7 +4,7 @@
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="Coding" width="300" src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif">
 
-<p align="left"> <a href="https://komarev.com/ghpvc/?username=ambreshkumarsaini&label=Profile%20views&color=0e75b6&style=flat" alt="ambreshkumarsaini" />My Resume</p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ambreshkumarsaini&label=Profile%20views&color=0e75b6&style=flat" alt="ambreshkumarsaini" /> </p>
 
 - 🔭 I’m currently working on **CarObar**
 
@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **sainikumar368@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/drive/folders/1IDlryz0GreWS0GSDvo8kKasKCZ63uw0k](https://drive.google.com/drive/folders/1IDlryz0GreWS0GSDvo8kKasKCZ63uw0k)
+- 📄 Know about my experiences [My Resume](https://drive.google.com/drive/folders/1IDlryz0GreWS0GSDvo8kKasKCZ63uw0k)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
