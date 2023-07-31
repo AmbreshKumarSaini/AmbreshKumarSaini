@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **sainikumar368@gmail.com**
 
-- 📄 Know about my experiences [My Resume](https://drive.google.com/drive/folders/1IDlryz0GreWS0GSDvo8kKasKCZ63uw0k)
+- 📄 Know about my experiences [My Resume](https://drive.google.com/drive/folders/1IDlryz0GreWS0GSDvo8kKasKCZ63uw0k).
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
